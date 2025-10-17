@@ -4,5 +4,5 @@ Deploy and configure a live NGINX web server and serve a custom webpage accessib
 
 **Name:** Clifford Mapesa \
 **Slack Username:** cliffordmapesa8 \
-**Server IP/Domain:** 
+**Server IP/Domain:** 3.237.252.249
 
